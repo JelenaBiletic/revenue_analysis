@@ -1,5 +1,16 @@
 # revenue_analysis
 This document illustrates our analysis of Unicorn Company's sales data, highlighting key trends and areas of concern.
+### Team Members
+- **Jelena Biletic** - Data Analyst
+- **Timon Stolzenber** - Data Analyst
+- **Mohamed Shehata** - Data Analyst
+- **Charles Brendan Udoutun** - Data Analyst
+### Tools
+- **SQL**: For querying and managing the sales and customer data.
+- **Google Sheets**: For performing pivot table analyses and calculating key metrics.
+- **Tableau**: For creating interactive visualizations of sales, profits, and trends.
+
+  
 # **Unicorn: Sales and Profit Analysis**
 ### **Executive Summary - Jelena Biletic**
 ## **INTRODUCTION**
@@ -40,7 +51,7 @@ Geographically, the company's sales and profit distribution is highly concentrat
 * **Community Engagement:** Build local relationships through partnerships and community activities.
 
 ## Project Summary
-Watch my video presentation of this project [UnicornVideo](https://drive.google.com/file/d/1MyNCBBlDPE0I7Se7gm1XVqbLdajVsW6A/view?usp=sharing).
+Watch video presentation of this project [UnicornVideo](https://drive.google.com/file/d/1MyNCBBlDPE0I7Se7gm1XVqbLdajVsW6A/view?usp=sharing).
 
 View the interactive Dashboard in Tableau [UnicornDashboard](https://public.tableau.com/views/UnicornProject_17203564482980/UnicornProject?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
