@@ -12,7 +12,7 @@ This document illustrates our analysis of Unicorn Company's sales data, highligh
 
   
 # **Unicorn: Sales and Profit Analysis**
-### **Executive Summary - Jelena Biletic**
+### **Executive Summary**
 ## **INTRODUCTION**
 This document presents a comprehensive analysis of Unicorn Company's sales data, identifying key trends and critical areas of concern. Specifically, it examines the issue of declining profits in the face of consistent sales growth. Along with this analysis, we provide actionable recommendations designed to reverse the downward profit trend. Our objective is to deliver a clear, data-driven foundation that supports informed decision-making and fosters sustainable profitability.
 ## **METHODOLOGY**
@@ -51,8 +51,10 @@ Geographically, the company's sales and profit distribution is highly concentrat
 * **Community Engagement:** Build local relationships through partnerships and community activities.
 
 ## Project Summary
+View analysis in Google Sheets [UnicornSheets](https://docs.google.com/spreadsheets/d/1yS6WACn3kEPTi-6eu0u75BsBArk-PYZVZF1nFIU-Yes/edit?usp=sharing).
+
 Watch video presentation of this project [UnicornVideo](https://drive.google.com/file/d/1MyNCBBlDPE0I7Se7gm1XVqbLdajVsW6A/view?usp=sharing).
 
-View the interactive Dashboard in Tableau [UnicornDashboard](https://public.tableau.com/views/UnicornProject_17203564482980/UnicornProject?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+View the interactive Dashboard in Tableau [UnicornDashboard](https://public.tableau.com/views/UnicornProject_17203564482980/UnicornProject?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 View the project presentation [UnicornPresentation](https://docs.google.com/presentation/d/1U-aMoIni0U7F3n33Mg5kOV_OgQ_0oFV1FkeDxWuU1Ro/edit?usp=sharing).
