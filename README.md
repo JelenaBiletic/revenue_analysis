@@ -38,3 +38,10 @@ Geographically, the company's sales and profit distribution is highly concentrat
 * **Analyze Success:** Study California and New York to understand the factors behind their success.
 * **Tailored Marketing:** Create region-specific campaigns and promotions to engage underperforming markets.
 * **Community Engagement:** Build local relationships through partnerships and community activities.
+
+## Project Summary
+Watch my video presentation of this project [UnicornVideo](https://drive.google.com/file/d/1MyNCBBlDPE0I7Se7gm1XVqbLdajVsW6A/view?usp=sharing).
+
+View the interactive Dashboard in Tableau [UnicornDashboard](https://public.tableau.com/views/UnicornProject_17203564482980/UnicornProject?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+View the project presentation [UnicornPresentation](https://docs.google.com/presentation/d/1U-aMoIni0U7F3n33Mg5kOV_OgQ_0oFV1FkeDxWuU1Ro/edit?usp=sharing).
