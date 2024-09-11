@@ -51,7 +51,7 @@ Geographically, the company's sales and profit distribution is highly concentrat
 * **Community Engagement:** Build local relationships through partnerships and community activities.
 
 ## Project Summary
-View analysis in Google Sheets [UnicornSheets](https://docs.google.com/spreadsheets/d/1yS6WACn3kEPTi-6eu0u75BsBArk-PYZVZF1nFIU-Yes/edit?usp=sharing).
+View analysis in Google Sheets [UnicornSheets]([https://docs.google.com/spreadsheets/d/1yS6WACn3kEPTi-6eu0u75BsBArk-PYZVZF1nFIU-Yes/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Q0e6pnpUKZ6ZH1jvoR-UAT-ZTtGA1F9-05VRU7GaX94/edit?usp=sharing)).
 
 Watch video presentation of this project [UnicornVideo](https://drive.google.com/file/d/1MyNCBBlDPE0I7Se7gm1XVqbLdajVsW6A/view?usp=sharing).
 
