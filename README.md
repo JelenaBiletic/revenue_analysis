@@ -50,7 +50,7 @@ Geographically, the company's sales and profit distribution is highly concentrat
 * **Tailored Marketing:** Create region-specific campaigns and promotions to engage underperforming markets.
 * **Community Engagement:** Build local relationships through partnerships and community activities.
 
-## Project Summary
+## PROJECT SUMMARY
 View analysis in Google Sheets [UnicornSheets](https://docs.google.com/spreadsheets/d/1Q0e6pnpUKZ6ZH1jvoR-UAT-ZTtGA1F9-05VRU7GaX94/edit?usp=sharing).
 
 Watch video presentation of this project [UnicornVideo](https://drive.google.com/file/d/1MyNCBBlDPE0I7Se7gm1XVqbLdajVsW6A/view?usp=sharing).
